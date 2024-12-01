@@ -1,0 +1,17 @@
+.header--view {
+  padding: 20px;
+  display: flex;
+  align-items: center;
+}
+
+.nav-view {
+  display: flex;
+  align-items: center;
+  margin-left: 20px;
+}
+
+.nav-view a {
+  color: whitesmoke;
+  text-decoration: none;
+  margin-left: 20px;
+}

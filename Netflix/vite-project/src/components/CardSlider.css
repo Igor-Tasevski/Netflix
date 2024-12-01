@@ -1,0 +1,21 @@
+.cardSlider--view {
+    margin-left: 20px;
+  }
+
+
+  .slider-car-show {
+    display: flex;
+    flex-direction: row;
+    overflow-x: auto;
+  }
+  
+  .slider img {
+    width: 180px;
+    object-fit: cover;
+    border-radius: 8px;
+  }
+  
+  .slider {
+    margin-left: 20px;
+  }
+  
