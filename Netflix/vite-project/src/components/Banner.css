@@ -1,0 +1,46 @@
+.banner-view {
+    position: relative;
+  }
+  
+  .banner--view img {
+    height: 100vh;
+    width: 97vw;
+    object-fit: cover;
+  }
+  
+  .banner--about {
+    position: absolute;
+    top: 120px;
+    left: 40px;
+    width: 520px;
+    background-color: transparent;
+  }
+  
+  .banner--about button {
+    padding: 10px 28px;
+    font-size: large;
+    text-transform: uppercase;
+    font-weight: 700;
+    margin-right: 14px;
+    border: none;
+    border-radius: 4px;
+  }
+  
+  .banner--about button:first-child {
+    background-color: white;
+  }
+  .banner--about button:first-child:hover {
+    opacity: 0.8;
+    cursor: pointer;
+  }
+  
+  .banner--about button:last-child {
+    background-color: rgba(109, 109, 110, 0.7);
+    color: white;
+  }
+  
+  .banner--about button:last-child:hover {
+    opacity: 0.8;
+    cursor: pointer;
+  }
+  
