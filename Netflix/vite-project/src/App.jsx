@@ -20,7 +20,7 @@ function App() {
       method: 'GET',
       headers: {
         accept: 'application/json',
-        Authorization: 'Bearer eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiI0ZDZiYzgwODYyMWRmZjdlNThlYWMyNmZlY2RiNDI3NiIsIm5iZiI6MTczMjY0OTI4Ny4wNTc5OTk4LCJzdWIiOiI2NzQ2MjE0NzBmMDU0NWRhMTliYTAyNjAiLCJzY29wZXMiOlsiYXBpX3JlYWQiXSwidmVyc2lvbiI6MX0.rxPFZrnAGJquPPGSNBYkagV9GxoU_l87qQ7ERbpsFdk'
+        Authorization: ''
       }
     };
 
